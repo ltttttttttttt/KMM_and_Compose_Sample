@@ -1,0 +1,2 @@
+# KMM_and_Compose_Sample
+Kotlin多平台+Kotlin多平台ui组件Compose做的一个演示应用,展示基础功能和基础架构搭建
