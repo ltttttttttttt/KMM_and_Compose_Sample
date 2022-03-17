@@ -12,8 +12,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             MaterialTheme {
-                //App()
-                NumberList()
+                //App()//官方示例
+                NumberList()//简单示例: https://blog.csdn.net/qq_33505109/article/details/123497999
             }
         }
     }
