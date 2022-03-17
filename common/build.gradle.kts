@@ -33,6 +33,7 @@ kotlin {
             dependencies {
                 api("androidx.appcompat:appcompat:1.2.0")
                 api("androidx.core:core-ktx:1.3.1")
+                api("androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1")
             }
         }
         val androidTest by getting {
